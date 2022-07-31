@@ -1,9 +1,9 @@
 # Leetcode_Coding_Solutions
 
 This repository includes my solutions to Leetcode algorithm questions. I did not solve randomly,
-i solved topic wise and pattern wise. Big thanks to my Mentor [Surya Pratap Kahar](https://www.linkedin.com/in/surya-pratap-kahar/) 
-with his help problems are grouped under their respective subtopic, in order to 
+i solved topic wise and pattern wise.Problems are grouped under their respective subtopic, in order to 
 focus on applying common patterns and tricks,rather than randomly tackling questions.
+Big thanks to my Mentor [Surya Pratap Kahar](https://www.linkedin.com/in/surya-pratap-kahar/) 
 
 
 
